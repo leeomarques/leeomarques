@@ -1,6 +1,6 @@
 ## Hi there 👋, i'm Leo and let's code now !
 
-- 🔭 I’m currently working on the Court of Auditors of the State of Pernambuco - TCE, hired by Pitang.
+- 🔭 I’m currently working on the EY, hired by EY.
 - 🌱 I’m currently learning and practicing Java / Spring Boot / Oracle DB / SQL Server / Angular / Typscript.
 - 👯 I’m looking to collaborate and create a good network to exchange ideas about technology.
 - 🤔 I'm looking for help with Java / Spring Boot / Angular.
